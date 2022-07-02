@@ -6,9 +6,10 @@ As I have many other demands on my time, this will never be a full port of the c
 This is done for my own convenience, with gratitude and respect for Tor Wager and Martin Lindquist and their contributions to science. I've learned a lot from both of them without yet having met either of them.
 
 See the following for more:
-    The CanLab repository these functions came from - https://github.com/canlab/CanlabCore
-    A great introduction to fMRI - https://leanpub.com/principlesoffmri
-    Wager and Lindquist's Coursera course, part 1 - https://www.coursera.org/learn/functional-mri/
-    Wager and Lindquist's Coursera course, part 2 - https://www.coursera.org/learn/functional-mri-2/
+    
+- The CanLab repository these functions came from - https://github.com/canlab/CanlabCore
+- A great introduction to fMRI - https://leanpub.com/principlesoffmri
+- Wager and Lindquist's Coursera course, part 1 - https://www.coursera.org/learn/functional-mri/
+- Wager and Lindquist's Coursera course, part 2 - https://www.coursera.org/learn/functional-mri-2/
     
 Even though libraries here are ports, not copies, the GPL license is used here pursuant to its use in the original CanLab code.
